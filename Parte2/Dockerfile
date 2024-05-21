@@ -16,4 +16,4 @@ RUN pip install aiohttp
 
 #COMANDO PARA EJECUTAR EL SCRIPT CUANDO EL CONTENEDOR SE INICIE
 
-CMD ['python', 'scraper.py']
+CMD ["python", "scraper.py"]
