@@ -10,3 +10,4 @@ La diferencia es que la concurrencia realiza trabajo secuencialmente (simula), p
 
 
 **3. Explica cómo Docker puede ser usado para simular entornos distribuidos y la importancia de la contenerización en proyectos paralelos y distribuidos.**
+
