@@ -20,4 +20,3 @@ async def main(urls):
 
 urls = ['https://en.wikipedia.org/wiki/Cristiano_Ronaldo']*5
 asyncio.run(main(urls))
-~                           
