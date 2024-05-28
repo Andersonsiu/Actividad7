@@ -1,6 +1,6 @@
 # Servidor Web Asíncrono con aiohttp
 
-Este proyecto implementa un servidor web asíncrono utilizando `asyncio` y `aiohttp`, ideal para manejar solicitudes HTTP de manera eficiente. El servidor responde con contenido estático y maneja rutas específicas para mostrar el estado del servidor y las tareas en segundo plano.
+Este ejercicio implementa un servidor web asíncrono utilizando `asyncio` y `aiohttp`, ideal para manejar solicitudes HTTP de manera eficiente. El servidor responde con contenido estático y maneja rutas específicas para mostrar el estado del servidor y las tareas en segundo plano.
 
 ## Requisitos
 
